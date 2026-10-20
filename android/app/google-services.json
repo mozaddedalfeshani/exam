@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815546126563",
+    "project_id": "testingnow-a270d",
+    "storage_bucket": "testingnow-a270d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815546126563:android:49c520a25769da3115f5d6",
+        "android_client_info": {
+          "package_name": "com.murad.student_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYtXu4QJv-dwaL7qP8nOaw-p-z9Je62c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
